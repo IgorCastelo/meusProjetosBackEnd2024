@@ -1,0 +1,10 @@
+package enttities;
+
+public class Account {
+	private String a;
+	
+	public Account() {
+		
+	}
+	
+}
