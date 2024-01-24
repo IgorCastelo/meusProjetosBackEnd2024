@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="enttities.OutsourcedEmployee"/>
     <fullyQualifiedTypeName name="enttities.Employee"/>
+    <fullyQualifiedTypeName name="entitties.Product"/>
+    <fullyQualifiedTypeName name="entitties.ImportedProduct"/>
+    <fullyQualifiedTypeName name="entitities.enums.Color"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entitities.Shape"/>
+    <fullyQualifiedTypeName name="entitities.Rectangle"/>
+    <fullyQualifiedTypeName name="entitities.Circle"/>
 </qualifiedTypeNameHistroy>
