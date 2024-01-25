@@ -8,6 +8,7 @@ import java.util.Scanner;
 import entitities.Circle;
 import entitities.Rectangle;
 import entitities.Shape;
+import entitities.enums.Color;
 
 public class Program {
 
@@ -24,24 +25,28 @@ public class Program {
 			System.out.println("Rectangle or Circle(r/c)?");
 			char type = sc.next().charAt(0);
 			System.out.println("Color (BLACK,BLUE,RED): ");
-			
+			Color color = Color.valueOf(sc.next());
 			if(type=='r') {
 				System.out.println("Width: ");
 				Double wigth = sc.nextDouble();
 				System.out.println("Heigth: ");
 				Double heigth = sc.nextDouble();
 				
-				list.add(new Rectangle(null, wigth, heigth));
+				list.add(new Rectangle(color, wigth, heigth));
 			}else {
 					System.out.println("Radius: ");
 					Double radius = sc.nextDouble();
 									
-					list.add(new Circle(null, radius));
-				}
+					list.add(new Circle(color, radius));
 			}
-			}
-			
-		
+		}
+		System.out.println();
+		System.out.println("SHAPES AREA:");
+		for(Shape shape:list) {
+			System.out.println(String.format("%.2f", shape.area()));
+		}
+		sc.close();
 	}
-
 }
+
+

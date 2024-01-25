@@ -4,9 +4,9 @@
     <fullyQualifiedTypeName name="enttities.Employee"/>
     <fullyQualifiedTypeName name="entitties.Product"/>
     <fullyQualifiedTypeName name="entitties.ImportedProduct"/>
-    <fullyQualifiedTypeName name="entitities.enums.Color"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entitities.Shape"/>
     <fullyQualifiedTypeName name="entitities.Rectangle"/>
     <fullyQualifiedTypeName name="entitities.Circle"/>
+    <fullyQualifiedTypeName name="entitities.enums.Color"/>
 </qualifiedTypeNameHistroy>
