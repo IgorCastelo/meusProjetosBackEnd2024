@@ -9,4 +9,6 @@
     <fullyQualifiedTypeName name="entitities.Rectangle"/>
     <fullyQualifiedTypeName name="entitities.Circle"/>
     <fullyQualifiedTypeName name="entitities.enums.Color"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
 </qualifiedTypeNameHistroy>
