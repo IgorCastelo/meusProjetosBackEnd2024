@@ -4,11 +4,17 @@
     <fullyQualifiedTypeName name="enttities.Employee"/>
     <fullyQualifiedTypeName name="entitties.Product"/>
     <fullyQualifiedTypeName name="entitties.ImportedProduct"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entitities.Shape"/>
     <fullyQualifiedTypeName name="entitities.Rectangle"/>
     <fullyQualifiedTypeName name="entitities.Circle"/>
     <fullyQualifiedTypeName name="entitities.enums.Color"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="model.entities.Reservation"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
 </qualifiedTypeNameHistroy>
